@@ -15,13 +15,12 @@
 
 📈 My Current Goals
 
-    🎯 Completing TryHackMe SOC Level 1
+    🎯 Learning Red Team Concept
     📚 Learning and applying CySA+ concepts
     🔍 Enhancing threat detection and incident response skills
 
-📂 Notable Projects
+📂 Ongoing Projects
 
-    SOC Playbook: A collection of playbooks and workflows for SOC analysts focusing on threat detection, response, and forensics.
     Malware Analysis Lab: Scripts and documentation on analyzing suspicious files, leveraging tools like Loki and yarGen for detection.
     Phishing Analysis Toolkit: An automation tool for phishing email analysis, extracting indicators of compromise (IOCs) and metadata.
 
