@@ -6,30 +6,30 @@
 🔹 I’m working toward certifications and hands-on labs to enhance my knowledge, CompTIA CYSA+ and Tryhackme , Blue Team Labs Online.
 🔧 Tools & Technologies
 
-    Forensics: Autopsy, FTK Imager, Volatility, KAPE and Redline
-    Threat Detection & SIEM: Splunk, QRadar and Elastic
-    Network Monitoring: Wireshark, Tcpdump, Snort 
-    Threat Intelligence:  MISP, OpenCTI
-    Automation & Scripting: Basic Bash , PowerShell and Python
+    Forensics: **Autopsy,Belkasoft, FTK Imager, Volatility, KAPE and Redline** 
+    Threat Detection & SIEM: **Splunk, QRadar and Elastic**
+    Network Monitoring: **Cacti, Nagios , Grafana , Solarwind , Wireshark, Tcpdump, Snort **
+    Threat Intelligence: ** MISP, OpenCTI**
+    Automation & Scripting:** Basic Bash , PowerShell and Python**
     
 
 📈 My Current Goals
 
-    🎯 Learning Red Team Concept
-    📚 Learning and applying CySA+ concepts
+    🎯 Learning Red Team Concept in Tryhackme Red Teaming 
+    📚 Learning and applying CySA+ 
     🔍 Enhancing threat detection and incident response skills
 
 📂 Ongoing Projects
 
     Malware Analysis Lab: Scripts and documentation on analyzing suspicious files, leveraging tools like Loki and yarGen for detection.
     Phishing Analysis Toolkit: An automation tool for phishing email analysis, extracting indicators of compromise (IOCs) and metadata.
+    
 
 🌱 Let's Connect!
 
     LinkedIn:  Min Hein Kyaw 
-    TryHackMe: TryHackMe Profile
-    Blue Team Labs Online:  BTLO Profile
+    TryHackMe: https://tryhackme.com/p/Cipherzero
+    Blue Team Labs Online:  https://blueteamlabs.online/home/user/469f9e767d491b25145958
 
-🔒 "Securing the digital world, one incident at a time."
 
 Feel free to reach out or collaborate! I’m always open to learning from fellow cybersecurity professionals. 😊
