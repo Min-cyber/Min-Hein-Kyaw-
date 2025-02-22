@@ -19,6 +19,8 @@
     📚 Learning and applying CySA+ 
     🔍 Enhancing threat detection and incident response skills
 
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1151750" style='border:none;'></iframe>
+
 📂 Ongoing Projects
 
     Malware Analysis Lab: Scripts and documentation on analyzing suspicious files, leveraging tools like Loki and yarGen for detection.
