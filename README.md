@@ -19,7 +19,6 @@
     📚 Learning and applying CySA+ 
     🔍 Enhancing threat detection and incident response skills
 
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1151750" style='border:none;'></iframe>
 
 📂 Ongoing Projects
 
@@ -35,3 +34,7 @@
 
 
 Feel free to reach out or collaborate! I’m always open to learning from fellow cybersecurity professionals. 😊
+
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1151750" style='border:none;'></iframe>
+
