@@ -1,5 +1,5 @@
 👋 Hi, I'm Min Hein Kyaw!
-👨‍💻 Cybersecurity Enthusiast | SOC Analyst in Training | Incident Responder
+👨‍💻 Cybersecurity Enthusiast | Incident Responder
 
 🔹 Passionate about defending digital landscapes and analyzing complex security threats. Currently building my expertise in incident response, malware analysis, threat hunting, and phishing analysis.
 
