@@ -35,6 +35,3 @@
 
 Feel free to reach out or collaborate! I’m always open to learning from fellow cybersecurity professionals. 😊
 
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1151750" style='border:none;'></iframe>
-
