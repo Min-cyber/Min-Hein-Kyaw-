@@ -19,6 +19,8 @@
     📚 Learning and applying CySA+ 
     🔍 Enhancing threat detection and incident response skills
 
+   Projects 
+   
 
 📂 Ongoing Projects
 
