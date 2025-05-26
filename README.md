@@ -8,6 +8,8 @@ Welcome to my network engineering portfolio showcasing my hands-on labs and proj
 - Cisco Certified Network Professional -ENCOR
 - Security Blue Team Level 1
 - CompTIA Security +
+- Certified Network Security Practitioner
+- EC Council CSCU
 
 
 ## Projects
@@ -16,6 +18,6 @@ Welcome to my network engineering portfolio showcasing my hands-on labs and proj
 - Multi-area OSPF with route summarization
 
 ## Contact
-- LinkedIn: [your-linkedin-profile]
-- Email: mgminheinkyaw453@gmail.com
+- LinkedIn: www.linkedin.com/in/min-hein-kyaw-bk
+- Email   : mgminheinkyaw453@gmail.com
   
