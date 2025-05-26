@@ -1,39 +1,21 @@
-👋 Hi, I'm Min Hein Kyaw!
-👨‍💻 Cybersecurity Enthusiast | Incident Responder
+# Network Engineer Portfolio
 
-🔹 Passionate about defending digital landscapes and analyzing complex security threats. Currently building my expertise in incident response, malware analysis, threat hunting, and phishing analysis.
+Welcome to my network engineering portfolio showcasing my hands-on labs and projects.
 
-🔹 I’m working toward certifications and hands-on labs to enhance my knowledge, CompTIA CYSA+ and Tryhackme , Blue Team Labs Online.
-🔧 Tools & Technologies
-
-    Forensics: **Autopsy,Belkasoft, FTK Imager, Volatility, KAPE and Redline** 
-    Threat Detection & SIEM: **Splunk, QRadar and Elastic**
-    Network Monitoring: **Cacti, Nagios , Grafana , Solarwind , Wireshark, Tcpdump, Snort **
-    Threat Intelligence: ** MISP, OpenCTI**
-    Automation & Scripting:** Basic Bash , PowerShell and Python**
-    
-
-📈 My Current Goals
-
-    🎯 Learning Red Team Concept in Tryhackme Red Teaming 
-    📚 Learning and applying CySA+ 
-    🔍 Enhancing threat detection and incident response skills
-
-   Projects 
-   
-
-📂 Ongoing Projects
-
-    Malware Analysis Lab: Scripts and documentation on analyzing suspicious files, leveraging tools like Loki and yarGen for detection.
-    Phishing Analysis Toolkit: An automation tool for phishing email analysis, extracting indicators of compromise (IOCs) and metadata.
-    
-
-🌱 Let's Connect!
-
-    LinkedIn:  Min Hein Kyaw 
-    TryHackMe: https://tryhackme.com/p/Cipherzero
-    Blue Team Labs Online:  https://blueteamlabs.online/home/user/469f9e767d491b25145958
+## Certifications
+- Cisco Certified Network Professional Enterprise
+- Cisco Certified Network Professional -SDWAN
+- Cisco Certified Network Professional -ENCOR
+- Security Blue Team Level 1
+- CompTIA Security +
 
 
-Feel free to reach out or collaborate! I’m always open to learning from fellow cybersecurity professionals. 😊
+## Projects
+- DMVPN Lab with dynamic routing and failover
+- Zone-Based Firewall Simulation using ACLs on IOS Router
+- Multi-area OSPF with route summarization
 
+## Contact
+- LinkedIn: [your-linkedin-profile]
+- Email: mgminheinkyaw453@gmail.com
+  
