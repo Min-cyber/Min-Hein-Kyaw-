@@ -1,6 +1,18 @@
 # Network Engineer Portfolio
 
-Welcome to my network engineering portfolio showcasing my hands-on labs and projects.
+Dedicated and analytical IT professional with over 3 years of experience in networking and system administration,specializing in on-premises infrastructure. Proven expertise in configuration and maintaining Wi-Fi networks and LAN switching environments, with a strong foundation in Cisco networking. Skilled in Windows Server administration, Fortinet firewall configuration, and virtualization technologies. Adept at troubleshooting and resolving issues across core networking protocols, including  TCP/IP, DNS. Familiar with AWS cloud fundamentals and highly motivated to expend into cloud-based and modern IT infrastructure. Seeking a role where I can contribute to delivering reliable operations support, implementing robust network solutions, and  growing within a dynamic, technology-focused organization.
+
+
+# Technical Areas I Focus On:
+Network Engineering: BGP, OSPF, MPLS, SD-WAN, Wireless, VLANs, and Cisco Device Configuration
+
+Security Operations: Log analysis, SIEM (Splunk, QRadar), threat hunting, phishing analysis
+
+Monitoring Tools: SolarWinds, Grafana, Cacti, Nagios, Wireshark
+
+Platforms & Protocols: SNMP, Syslog, IPsec VPN, EIGRP, NAC, 802.1X
+
+Cloud & Scripting (Learning): Azure, AWS, Bash, Python for automation
 
 ## Certifications
 - Cisco Certified Network Professional Enterprise
