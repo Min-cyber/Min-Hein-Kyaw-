@@ -1,18 +1,17 @@
 # Network Engineer Portfolio
 
-Dedicated and analytical IT professional with over 3 years of experience in networking and system administration,specializing in on-premises infrastructure. Proven expertise in configuration and maintaining Wi-Fi networks and LAN switching environments, with a strong foundation in Cisco networking. Skilled in Windows Server administration, Fortinet firewall configuration, and virtualization technologies. Adept at troubleshooting and resolving issues across core networking protocols, including  TCP/IP, DNS. Familiar with AWS cloud fundamentals and highly motivated to expend into cloud-based and modern IT infrastructure. Seeking a role where I can contribute to delivering reliable operations support, implementing robust network solutions, and  growing within a dynamic, technology-focused organization.
+Dedicated and analytical IT professional with over 3 years 7 months of experience in networking and security , specializing in on-premises infrastructure. Proven expertise in configuration and maintenance of Wi-Fi networks and LAN switching environments, with a strong foundation in Cisco networking. Skilled in Windows Server administration,firewall configuration, and virtualization technologies. Adept at troubleshooting and resolving issues across core networking protocols, including  TCP/IP, DNS and DHCP. Familiar with AWS cloud fundamentals and highly motivated to expand into cloud-based and modern IT infrastructure. Seeking a role where I can contribute to delivering reliable operations support, implementing robust network solutions, and  growing within a dynamic, technology-focused organization.
 
 
 # Technical Areas I Focus On:
-Network Engineering: BGP, OSPF, MPLS, SD-WAN, Wireless, VLANs, and Cisco Device Configuration
+**Network Engineering**:BGP, OSPF, EIGRP,IS-IS, MPLS, SD-WAN, VLANs, Wireless Networking (802.11 standards, security & troubleshooting), Cisco Device Configuration (Routers, Switches, Firewalls), Network Access Control (NAC).
 
-Security Operations: Log analysis, SIEM (Splunk, QRadar), threat hunting, phishing analysis
+**Monitoring & Analysis Tools**:SolarWinds, Grafana, Cacti, Nagios, Wireshark, Tshark, Tcpdump.
 
-Monitoring Tools: SolarWinds, Grafana, Cacti, Nagios, Wireshark
+**Security Operations**:Log Analysis, Threat Hunting, Incident Response, Malware Analysis, Phishing Investigation, SIEM Platforms (Splunk, Elastic and QRadar), Firewall Administration, IDS/IPS(Snort), Active Directory Security.
 
-Platforms & Protocols: SNMP, Syslog, IPsec VPN, EIGRP, NAC, 802.1X
 
-Cloud & Scripting (Learning): Azure, AWS, Bash, Python for automation
+**Protocols & Standards**: SNMP, Syslog, IPsec VPN, DMVPN, 802.1X Authentication, SSL/TLS, DHCP Snooping, RADIUS/TACACS+, Secure Network Communications.
 
 ## Certifications
 - Cisco Certified Network Professional Enterprise
@@ -23,15 +22,23 @@ Cloud & Scripting (Learning): Azure, AWS, Bash, Python for automation
 - Certified Network Security Practitioner
 - EC Council CSCU
 
+## Language
+- English ( Intermediate)
+- Burmese ( Native ) 
+
+## In-Progress 
+- AWS Cloud Certification
+- TryHackMe Security Engineer 
+- Chinese Language 
+
 
 ## Projects
 - DMVPN Lab with dynamic routing and failover
 - IPsec Site to Site VPN
 - Zone-Based Firewall Simulation using ACLs on IOS Router
 
-
 ## Contact
 - LinkedIn: www.linkedin.com/in/min-hein-kyaw-bk
 - Email   : mgminheinkyaw453@gmail.com
-- Whatapps - (+66)0814469902
+- WhatsApp - (+66)0814469902
   
