@@ -4,9 +4,9 @@ Dedicated and analytical IT professional  experience in networking and security 
 
 
 # Technical Areas I Focus On:
-**Network Engineering**:BGP, OSPF, EIGRP,IS-IS, MPLS, SD-WAN, VLANs, Wireless Networking (802.11 standards, security & troubleshooting), Cisco Device Configuration (Routers, Switches, Firewalls), Network Access Control (NAC).
+**Network Engineering**:BGP, OSPF, EIGRP,IS-IS, MPLS, SD-WAN, VLANs,STP, Wireless , Cisco Device Configuration (Routers, Switches, Firewalls), Network Access Control (NAC).
 
-**Monitoring & Analysis Tools**:SolarWinds, Grafana, Cacti, Nagios, Wireshark, Tshark, Tcpdump.
+**Monitoring & Analysis Tools**:SolarWinds, Grafana, Cacti, Nagios, Wireshark, Tshark and Tcpdump.
 
 **Security Operations**:Log Analysis, Threat Hunting, Incident Response, Malware Analysis, Phishing Investigation, SIEM Platforms (Splunk, Elastic and QRadar), Firewall Administration, IDS/IPS(Snort), Active Directory Security.
 
@@ -36,6 +36,9 @@ Dedicated and analytical IT professional  experience in networking and security 
 - DMVPN Lab with dynamic routing and failover
 - IPsec Site to Site VPN
 - Zone-Based Firewall Simulation using ACLs on IOS Router
+
+## Blog 
+- OPSEC ( Operation Security ) 
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/min-hein-kyaw-bk
