@@ -27,7 +27,6 @@ Dedicated and analytical IT professional  experience in networking and security 
 - Burmese ( Native ) 
 
 ## In-Progress 
-- AWS Cloud Certification
 - TryHackMe Security Engineer 
 - Chinese Language 
 
