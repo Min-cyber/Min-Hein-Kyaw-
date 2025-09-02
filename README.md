@@ -1,14 +1,16 @@
 # Network Engineer Portfolio
 
-Dedicated and analytical IT professional  experience in networking and security , specializing in on-premises infrastructure. Proven expertise in configuration and maintenance of Wi-Fi networks and LAN switching environments, with a strong foundation in Cisco networking. Skilled in Windows Server administration,firewall configuration, and virtualization technologies. Adept at troubleshooting and resolving issues across core networking protocols, including  TCP/IP, DNS and DHCP. Familiar with AWS cloud fundamentals and highly motivated to expand into cloud-based and modern IT infrastructure. Seeking a role where I can contribute to delivering reliable operations support, implementing robust network solutions, and  growing within a dynamic, technology-focused organization.
+Dedicated and analytical IT professional  with experience in networking and security, specializing in on-premises infrastructure. Proven expertise in configuration and maintenance of Wi-Fi networks and LAN switching environments, with a strong foundation in Cisco networking. Skilled in Windows Server administration, firewall configuration, and virtualization technologies. Adept at troubleshooting and resolving issues across core networking protocols, including  TCP/IP, DNS and DHCP. Familiar with AWS cloud fundamentals and highly motivated to expand into cloud-based and modern IT infrastructure. Seeking a role where I can contribute to delivering reliable operations support, implementing robust network solutions, and  growing within a dynamic, technology-focused organization.
 
 
 # Technical Areas I Focus On:
-**Network Engineering**:BGP, OSPF, EIGRP,IS-IS, MPLS, SD-WAN, VLANs,STP, Wireless , Cisco Device Configuration (Routers, Switches, Firewalls), Network Access Control (NAC).
+**Network Engineering**:BGP, OSPF, EIGRP, IS-IS, MPLS, SD-WAN, VLANs, STP, Wireless, Cisco Device Configuration (Routers, Switches, Firewalls), Network Access Control (NAC).
 
 **Monitoring & Analysis Tools**:SolarWinds, Grafana, Cacti, Nagios, Wireshark, Tshark and Tcpdump.
 
 **Security Operations**:Log Analysis, Threat Hunting, Incident Response, Malware Analysis, Phishing Investigation, SIEM Platforms (Splunk, Elastic and QRadar), Firewall Administration, IDS/IPS(Snort), Active Directory Security.
+
+**Scripting**: Python, Bash, and PowerShell
 
 
 **Protocols & Standards**: SNMP, Syslog, IPsec VPN, DMVPN, 802.1X Authentication, SSL/TLS, DHCP Snooping, RADIUS/TACACS+, Secure Network Communications.
