@@ -8,11 +8,12 @@ Dedicated and analytical IT professional  with experience in networking and secu
 
 **Monitoring & Analysis Tools**:SolarWinds, Grafana, Cacti, Nagios, Wireshark, Tshark, and Tcpdump.
 
+**Protocols & Standards**: SNMP, Syslog, IPsec VPN, DMVPN, 802.1X Authentication, SSL/TLS, DHCP Snooping, RADIUS/TACACS+, Secure Network Communications.
+
 **Security Operations**:Log Analysis,  Incident Response, Phishing Investigation, SIEM Platforms (Splunk, Elastic, and QRadar), Firewall Administration (Palo Alto, Fortinet, and Vyatta), IDS/IPS(Snort)
 
 **Scripting**: Python, Bash, and PowerShell
 
-**Protocols & Standards**: SNMP, Syslog, IPsec VPN, DMVPN, 802.1X Authentication, SSL/TLS, DHCP Snooping, RADIUS/TACACS+, Secure Network Communications.
 
 ## Certifications
 - Cisco Certified Network Professional Enterprise
