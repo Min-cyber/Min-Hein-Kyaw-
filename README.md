@@ -29,8 +29,7 @@ Dedicated and analytical IT professional  with experience in networking and secu
 - Burmese ( Native ) 
 
 ## In-Progress 
-- TryHackMe Security Engineer 
-- Chinese Language 
+- Chinese Language
 
 
 ## Projects
