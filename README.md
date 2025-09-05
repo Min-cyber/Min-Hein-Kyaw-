@@ -6,12 +6,11 @@ Dedicated and analytical IT professional  with experience in networking and secu
 # Technical Areas I Focus On:
 **Network Engineering**:BGP, OSPF, EIGRP, IS-IS, MPLS, SD-WAN, VLANs, STP, Wireless, Cisco Device Configuration (Routers, Switches, Firewalls), Network Access Control (NAC).
 
-**Monitoring & Analysis Tools**:SolarWinds, Grafana, Cacti, Nagios, Wireshark, Tshark and Tcpdump.
+**Monitoring & Analysis Tools**:SolarWinds, Grafana, Cacti, Nagios, Wireshark, Tshark, and Tcpdump.
 
-**Security Operations**:Log Analysis, Threat Hunting, Incident Response, Malware Analysis, Phishing Investigation, SIEM Platforms (Splunk, Elastic and QRadar), Firewall Administration, IDS/IPS(Snort), Active Directory Security.
+**Security Operations**:Log Analysis,  Incident Response, Phishing Investigation, SIEM Platforms (Splunk, Elastic, and QRadar), Firewall Administration (Palo Alto, Fortinet, and Vyatta), IDS/IPS(Snort)
 
 **Scripting**: Python, Bash, and PowerShell
-
 
 **Protocols & Standards**: SNMP, Syslog, IPsec VPN, DMVPN, 802.1X Authentication, SSL/TLS, DHCP Snooping, RADIUS/TACACS+, Secure Network Communications.
 
