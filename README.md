@@ -30,7 +30,7 @@ Dedicated and analytical IT professional  with experience in networking and secu
 
 ## In-Progress 
 - Chinese Language
-
+- Cloud Certification
 
 ## Projects
 - DMVPN Lab with dynamic routing and failover
