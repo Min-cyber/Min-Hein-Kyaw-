@@ -38,7 +38,9 @@ Dedicated and analytical IT professional  with experience in networking and secu
 - Zone-Based Firewall Simulation using ACLs on IOS Router
 
 ## Blog 
-- OPSEC ( Operation Security ) 
+- OPSEC ( Operation Security )
+-  Data Center
+-  Phishing Analysis 
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/min-hein-kyaw-bk
