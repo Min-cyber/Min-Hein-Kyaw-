@@ -35,7 +35,6 @@ Dedicated and analytical IT professional  with experience in networking and secu
 ## Projects
 - DMVPN Lab with dynamic routing and failover
 - IPsec Site to Site VPN
-- Zone-Based Firewall Simulation using ACLs on IOS Router
 
 ## Blog 
 - OPSEC ( Operation Security )
